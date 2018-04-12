@@ -1,0 +1,92 @@
+Program 01: Addition of two no.
+
+Program 02: Add three largest three digit no.
+
+Program 03: Series upto 10 terms - 1 2 4 7 ....
+
+Program 04: Series upto 10 terms - 3 10 29 66 ....
+
+Program 05: Count the no. of duplicate value in an array.
+
+Program 06: Reverse each word of a string.
+
+Program 07: Display the initials of 3 word name.
+
+Program 08: Basics of Class and Object with Public, Private and Protected.
+
+Program 09: Create a class 'shape' in which make a function TRIANGLE with three arguments to calculate the area of triangle depending on their sides.
+	    Make another function to display the addition and average of the three sides and also display the types of triangle.
+	    Create a function wiith two arguments to decide whether that shape is square or rectangle and find their areas.
+
+Program 10: Constructor example.
+
+Program 11: Create two objects of a class : 1) India 2)Australia.
+	    Default constructor: 5 Player names & Score.
+	    Main: Who won the match.
+
+Program 12: Function with object. Add two distance. Enter using km and meter.
+
+Program 13: Function with object. Add two time. Enter using hr min and sec.
+
+Program 14: Friend function. Sum of three values.
+
+Program 15: Volume of cuboid =  l*b*h. Create two objects of a class including two values of l,b,h.
+	    Display volume of both individually and also add both l,b,h.
+	    Further find volume of cuboid using values of resultant l,b,h.
+
+Program 16: Program to differntiate b/w public and local variable.
+
+Program 17: Program to differntiate b/w public and local variable. Thenafter use of *thispointer*.
+
+Program 18: Inheritance. Single Level.
+
+Program 19: Heirarchy. WAP that defines a shape class with a constructor that gives value to width & height.
+	    Then define two sub-classes triangle and rectangle, that calculate the area of the shape area().
+	    In the main, define two varibles a triangle and a rectangle and then call the area() function in this two variables.
+
+Program 20: Multiple Inheritence. Students details.
+
+Program 21: Multilevel inheritence. Bank account details.
+
+Program 22: Multiple inheritence. Which country won the most medals.
+
+Program 23: Multilevel Inheritence. Same name can be stored too as student data. Then search and display.
+
+Program 24: POLYMORPHISM. Calculate the area of circle, rectangle & triangle using FUNCTION OVERLOADING.
+
+Program 25: POLYMORPHISM CONCEPT EXPLAINED! This is of RUN TIME : FUNCTION OVERRIDING.
+
+Program 26: COMPILE TIME POLYMORPHISM : OPERATOR OVERLOADING : without parameter.
+
+Program 27: COMPILE TIME POLYMORPHISM : OPERATOR OVERLOADING : with parameter.
+
+Program 28: Find sum of total salary of three employes after working int two companies for a year per. Use OPERATOR OVERLOADING.
+
+Program 29: Using pointer in inheritence. Take the input in a function in a parent class.
+	    Check if they are perfect square or not. If not, then what should be added to make it a perfect square.
+	    Make child class, in that add those numbers which should be added to make perfect square and display.
+
+Program 30: ABSTRACT CLASS! Virtual Function.
+
+Program 31: Destructor.
+
+Program 32: FILE HANDLING. Writing in a file.
+
+Program 33: FILE HANDLING. Reading from file.
+
+Program 34: FILE HANDLING. Reading from file. Checking .fail, same as last program but with different method.
+
+Program 35: FILE HANDLING. Copy a content of one file to another.
+
+Program 36: FILE HANDLING. Copy a content of two files in one.
+
+Program 37: FILE HANDLING: Count no. of words, symbols and digits. Using ctype header file.
+
+Program 38: FILE HANDLING: Transfer data of one file to another in CAPITAL and SMALL ALPHABETS.
+
+Program 39: DATA FILE. Use of fstream. Very IMPORTANT.
+
+Program 40: Customer details using fstream. Insert, Display, Update and Delete. See Append!
+
+Program 41: FILE HANDLING. Banking System. 1) Create account. 2) Deposit. 3) Withdraw. 4) Balance Enquiry.
+
